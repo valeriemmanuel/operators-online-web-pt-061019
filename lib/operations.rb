@@ -1,5 +1,6 @@
 def unsafe?(speed)
-
+ if speed==
+   puts
 end
 
 
