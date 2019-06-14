@@ -1,5 +1,5 @@
-def unsafe?(speed=)
- if speed==
+def unsafe?(a,b,c=40,50,60)
+ if 
    puts
 end
 
