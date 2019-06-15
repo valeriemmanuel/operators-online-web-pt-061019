@@ -1,5 +1,5 @@
 def unsafe?(a,b,c=40,50,60)
- if 
+ if unsafe >
    puts
 end
 
